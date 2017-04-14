@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "adonis-fold": "^3.0.3",
-    "standard": "^10.0.0"
+    "standard": "^10.0.2"
   },
   "repository": {
     "type": "git",
