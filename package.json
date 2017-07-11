@@ -21,7 +21,7 @@
     "lint": "standard"
   },
   "dependencies": {
-    "adonis-ace": "^3.0.5",
+    "adonis-ace": "^3.0.8",
     "adonis-fold": "^3.0.3",
     "cli-spinner": "^0.2.5",
     "fs-extra": "^2.1.2",
